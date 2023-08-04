@@ -1,7 +1,3 @@
-# Wrap-Up Report
-
-### Team : 자만추 (NLP-01)
-
 # 1. 프로젝트  개요
 
 ![Untitled](Wrap-Up%20Report%205b3aff961a37467389773b53ccb9082d/Untitled.png)
